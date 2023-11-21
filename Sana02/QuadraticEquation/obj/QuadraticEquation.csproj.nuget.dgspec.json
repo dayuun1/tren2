@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\Sana02\\QuadraticEquation\\QuadraticEquation.csproj": {}
+    "C:\\Sana02\\Sana02\\QuadraticEquation\\QuadraticEquation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\Sana02\\QuadraticEquation\\QuadraticEquation.csproj": {
+    "C:\\Sana02\\Sana02\\QuadraticEquation\\QuadraticEquation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Sana02\\QuadraticEquation\\QuadraticEquation.csproj",
+        "projectUniqueName": "C:\\Sana02\\Sana02\\QuadraticEquation\\QuadraticEquation.csproj",
         "projectName": "QuadraticEquation",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\Sana02\\QuadraticEquation\\QuadraticEquation.csproj",
+        "projectPath": "C:\\Sana02\\Sana02\\QuadraticEquation\\QuadraticEquation.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\Sana02\\QuadraticEquation\\obj\\",
+        "outputPath": "C:\\Sana02\\Sana02\\QuadraticEquation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
